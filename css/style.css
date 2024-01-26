@@ -1,0 +1,13 @@
+.contact-icon{
+    margin-top: 20px;
+    height: 100px;
+}
+
+.menu{
+    background-color: blue;
+    text-decoration: none;
+    padding: 5px 20px;
+    margin: 10px;
+    color: white;
+    border-radius: 5px;
+}
